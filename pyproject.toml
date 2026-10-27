@@ -1,0 +1,9 @@
+[project]
+name = "story"
+version = "0.1.0"
+description = "A Python project"
+requires-python = ">=3.8"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
